@@ -1,0 +1,30 @@
+.logo {
+    font-size: 1rem;
+    font-weight: bold;
+    border: 1px solid white;
+    padding: 0.5rem;
+    color: white;
+}
+
+/* .logo {
+    font-size: 1rem;
+    font-weight: bold;
+    border: 1px solid white;
+    padding: 0.5rem;
+    color: white;
+    margin-left: 65px;
+    position: fixed;
+}
+
+#logoimg {
+    width: 54px;
+    float: left;
+}
+
+@media (max-width: 768px) {
+    #logoimg {
+        float: right;
+        position: relative;
+        margin-left: 325px;
+    }
+} */
